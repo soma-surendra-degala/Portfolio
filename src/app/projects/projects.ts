@@ -17,7 +17,7 @@ export class Projects {
     description: 'A personal portfolio to showcase projects...',
     techStack: ['Angular', 'Bootstrap', 'HTML', 'CSS'],
     github: 'https://github.com/soma-surendra-degala/Portfolio',
-    live: 'https://sdportfoli.netlify.app/',
+    live: 'https://portfolio-main-surendra.vercel.app/',
     screenshot: 'assets/Portfolio.png'
   },
   {
